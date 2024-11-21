@@ -29,6 +29,59 @@ The following power BI features were incorporated:
 ![](Adjusted_model.png)     |  ![](auto_model.png)
 
 
+## Visualization
+
+The report comprises 5 visuals.
+
+
+1. HR Gender
+2. Salary discrepancy
+3. HR Table
+4. HR Year
+5. %Employee and Education Qualification
+
+## Analysis
+
+### Employee Gender
+
+
+![](hr_Gender.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
