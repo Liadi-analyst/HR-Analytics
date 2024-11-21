@@ -24,5 +24,10 @@ The following power BI features were incorporated:
 
   ## Modelling
   
-  
+  Adjusted Model          |   Auto Model
+:------------------------:|:---------------------------:
+![](adjusted_model1.png)  |![](auto_model_png)
+
+
+
   
